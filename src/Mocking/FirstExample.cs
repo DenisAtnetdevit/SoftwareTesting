@@ -17,7 +17,6 @@ public class TestUsingFake
                 break;
         }
     }
-
 }
 public class TestUsingMock
 {
